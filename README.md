@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @creflow
-- 👀 I’m interested in great things
+- 👀 I’m interested in everything that would make me fun
 - 🌱 I’m currently learning SQL and PYTHON
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me creflow.ms@gmail.com
