@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that would make me fun
 - 🌱 I’m currently learning SQL and PYTHON
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me creflow.ms@gmail.com
+- 📫 How to reach me creflow@kaist.ac.kr
 
 <!---
 creflow/creflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
